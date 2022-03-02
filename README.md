@@ -1,0 +1,2 @@
+- 👋 Olá, me chamo Renata
+- Sou professora de Pensamento Computacional
